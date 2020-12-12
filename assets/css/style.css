@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This is the header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/*This is the Horiseon logo*/
+.logo {
     display: inline-block;
     font-size: 48px;
 }
 
+/*The "seo" in Horiseon is made darker*/
 .seo {
     color: #d9dcd6;
 }
 
+/*This is the nav bar*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,7 +36,7 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+.navLinks {
     list-style-type: none;
 }
 

@@ -1,2 +1,2 @@
 # 01-Homework
-This is my first homework assignment.
+This repository contains my first homework assignment.
